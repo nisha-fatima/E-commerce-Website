@@ -1,0 +1,8 @@
+[user]
+	name = DESKTOP-HPMJBOK\\nishh
+	email = nishhfatima@gmail.com
+[difftool "sourcetree"]
+	cmd = "'' "
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
